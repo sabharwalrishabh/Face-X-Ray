@@ -1,5 +1,5 @@
 # Face-X-Ray
-I tried implementing the Face-X-Ray paper following the methodology used by the authors<br>
+Implemented Face-X-Ray<br>
 
 **Fake Images and their corresponding masks**<br>
 
